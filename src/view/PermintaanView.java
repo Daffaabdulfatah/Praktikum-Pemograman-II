@@ -55,19 +55,19 @@ public class PermintaanView extends javax.swing.JFrame {
         btnExportPDF = new javax.swing.JButton();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.DISPOSE_ON_CLOSE);
-        setTitle("Permintaan - GreenBytes");
+        setTitle("Permintaan - PickUp");
         setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
 
-        jPanel1.setBackground(new java.awt.Color(34, 139, 34));
-        jPanel1.setForeground(new java.awt.Color(34, 139, 34));
+        jPanel1.setBackground(new java.awt.Color(41, 115, 178));
+        jPanel1.setForeground(new java.awt.Color(41, 115, 178));
         jPanel1.setPreferredSize(new java.awt.Dimension(200, 486));
 
         jLabel1.setFont(new java.awt.Font("Poppins", 1, 18)); // NOI18N
         jLabel1.setForeground(new java.awt.Color(255, 255, 255));
         jLabel1.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        jLabel1.setText("GreenBytes");
+        jLabel1.setText("PICK UP");
 
-        menuBeratPoint.setBackground(new java.awt.Color(50, 205, 50));
+        menuBeratPoint.setBackground(new java.awt.Color(154, 203, 208));
         menuBeratPoint.setFont(new java.awt.Font("Poppins", 0, 14)); // NOI18N
         menuBeratPoint.setForeground(new java.awt.Color(255, 255, 255));
         menuBeratPoint.setText("Total Berat & Point");
@@ -77,7 +77,7 @@ public class PermintaanView extends javax.swing.JFrame {
             }
         });
 
-        menuHome.setBackground(new java.awt.Color(50, 205, 50));
+        menuHome.setBackground(new java.awt.Color(154, 203, 208));
         menuHome.setFont(new java.awt.Font("Poppins", 0, 14)); // NOI18N
         menuHome.setForeground(new java.awt.Color(255, 255, 255));
         menuHome.setText("Halaman Utama");
@@ -87,7 +87,7 @@ public class PermintaanView extends javax.swing.JFrame {
             }
         });
 
-        menuKurir.setBackground(new java.awt.Color(50, 205, 50));
+        menuKurir.setBackground(new java.awt.Color(154, 203, 208));
         menuKurir.setFont(new java.awt.Font("Poppins", 0, 14)); // NOI18N
         menuKurir.setForeground(new java.awt.Color(255, 255, 255));
         menuKurir.setText("Kurir");
@@ -97,7 +97,7 @@ public class PermintaanView extends javax.swing.JFrame {
             }
         });
 
-        menuPenjemputan.setBackground(new java.awt.Color(50, 205, 50));
+        menuPenjemputan.setBackground(new java.awt.Color(154, 203, 208));
         menuPenjemputan.setFont(new java.awt.Font("Poppins", 0, 14)); // NOI18N
         menuPenjemputan.setForeground(new java.awt.Color(255, 255, 255));
         menuPenjemputan.setText("Status Penjemputan");
@@ -107,7 +107,7 @@ public class PermintaanView extends javax.swing.JFrame {
             }
         });
 
-        menuPermintaan.setBackground(new java.awt.Color(50, 205, 50));
+        menuPermintaan.setBackground(new java.awt.Color(154, 203, 208));
         menuPermintaan.setFont(new java.awt.Font("Poppins", 0, 14)); // NOI18N
         menuPermintaan.setForeground(new java.awt.Color(255, 255, 255));
         menuPermintaan.setText("Permintaan");
@@ -117,7 +117,7 @@ public class PermintaanView extends javax.swing.JFrame {
             }
         });
 
-        menuRiwayat.setBackground(new java.awt.Color(50, 205, 50));
+        menuRiwayat.setBackground(new java.awt.Color(154, 203, 208));
         menuRiwayat.setFont(new java.awt.Font("Poppins", 0, 14)); // NOI18N
         menuRiwayat.setForeground(new java.awt.Color(255, 255, 255));
         menuRiwayat.setText("Riwayat Penjemputan");
@@ -127,7 +127,7 @@ public class PermintaanView extends javax.swing.JFrame {
             }
         });
 
-        menuTracking.setBackground(new java.awt.Color(50, 205, 50));
+        menuTracking.setBackground(new java.awt.Color(154, 203, 208));
         menuTracking.setFont(new java.awt.Font("Poppins", 0, 14)); // NOI18N
         menuTracking.setForeground(new java.awt.Color(255, 255, 255));
         menuTracking.setText("Status Tracking");
@@ -210,7 +210,7 @@ public class PermintaanView extends javax.swing.JFrame {
         });
         jScrollPane1.setViewportView(tablePermintaan);
 
-        btnAddPermintaan.setBackground(new java.awt.Color(0, 153, 0));
+        btnAddPermintaan.setBackground(new java.awt.Color(72, 166, 167));
         btnAddPermintaan.setFont(new java.awt.Font("Poppins", 1, 14)); // NOI18N
         btnAddPermintaan.setForeground(new java.awt.Color(255, 255, 255));
         btnAddPermintaan.setText("Tambah Permintaan");
@@ -220,7 +220,7 @@ public class PermintaanView extends javax.swing.JFrame {
             }
         });
 
-        btnExportPDF.setBackground(new java.awt.Color(51, 51, 255));
+        btnExportPDF.setBackground(new java.awt.Color(41, 115, 178));
         btnExportPDF.setFont(new java.awt.Font("Poppins", 1, 14)); // NOI18N
         btnExportPDF.setForeground(new java.awt.Color(255, 255, 255));
         btnExportPDF.setText("Export PDF");

@@ -13,7 +13,7 @@ public class LatestStatusView23 extends JFrame {
     private JButton tambahButton = new JButton("Tambah Penjemputan");
     public LatestStatusView23() {
         // Konfigurasi utama frame
-        setTitle("GreenBytes - Status Penjemputan");
+        setTitle("PickUp - Status Penjemputan");
         setSize(800, 600); // Lebar diperbesar untuk membagi layar
         setLocationRelativeTo(null); // Posisi di tengah layar
         setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
@@ -26,7 +26,7 @@ public class LatestStatusView23 extends JFrame {
         sidebar.setLayout(new BoxLayout(sidebar, BoxLayout.Y_AXIS)); // Layout vertikal
 
         // Judul besar di sidebar
-        JLabel titleLabel = new JLabel("GreenBytes");
+        JLabel titleLabel = new JLabel("PickUp");
         titleLabel.setAlignmentX(Component.CENTER_ALIGNMENT);
         titleLabel.setForeground(Color.WHITE); // Warna tulisan putih
         titleLabel.setFont(new Font("Arial", Font.BOLD, 18)); // Font besar

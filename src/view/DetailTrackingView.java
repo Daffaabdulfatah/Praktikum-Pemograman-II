@@ -64,19 +64,19 @@ public class DetailTrackingView extends javax.swing.JFrame {
         simpanBtn = new javax.swing.JButton();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.DISPOSE_ON_CLOSE);
-        setTitle("Detail Tracking - GreenBytes");
+        setTitle("Detail Tracking - PickUp");
         setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
 
-        jPanel1.setBackground(new java.awt.Color(34, 139, 34));
-        jPanel1.setForeground(new java.awt.Color(34, 139, 34));
+        jPanel1.setBackground(new java.awt.Color(41, 115, 178));
+        jPanel1.setForeground(new java.awt.Color(41, 115, 178));
         jPanel1.setPreferredSize(new java.awt.Dimension(200, 486));
 
         jLabel1.setFont(new java.awt.Font("Poppins", 1, 18)); // NOI18N
         jLabel1.setForeground(new java.awt.Color(255, 255, 255));
         jLabel1.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        jLabel1.setText("GreenBytes");
+        jLabel1.setText("PICK UP");
 
-        menuBeratPoint.setBackground(new java.awt.Color(50, 205, 50));
+        menuBeratPoint.setBackground(new java.awt.Color(154, 203, 208));
         menuBeratPoint.setFont(new java.awt.Font("Poppins", 0, 14)); // NOI18N
         menuBeratPoint.setForeground(new java.awt.Color(255, 255, 255));
         menuBeratPoint.setText("Total Berat & Point");
@@ -86,7 +86,7 @@ public class DetailTrackingView extends javax.swing.JFrame {
             }
         });
 
-        menuHome.setBackground(new java.awt.Color(50, 205, 50));
+        menuHome.setBackground(new java.awt.Color(154, 203, 208));
         menuHome.setFont(new java.awt.Font("Poppins", 0, 14)); // NOI18N
         menuHome.setForeground(new java.awt.Color(255, 255, 255));
         menuHome.setText("Halaman Utama");
@@ -96,7 +96,7 @@ public class DetailTrackingView extends javax.swing.JFrame {
             }
         });
 
-        menuKurir.setBackground(new java.awt.Color(50, 205, 50));
+        menuKurir.setBackground(new java.awt.Color(154, 203, 208));
         menuKurir.setFont(new java.awt.Font("Poppins", 0, 14)); // NOI18N
         menuKurir.setForeground(new java.awt.Color(255, 255, 255));
         menuKurir.setText("Kurir");
@@ -106,7 +106,7 @@ public class DetailTrackingView extends javax.swing.JFrame {
             }
         });
 
-        menuPenjemputan.setBackground(new java.awt.Color(50, 205, 50));
+        menuPenjemputan.setBackground(new java.awt.Color(154, 203, 208));
         menuPenjemputan.setFont(new java.awt.Font("Poppins", 0, 14)); // NOI18N
         menuPenjemputan.setForeground(new java.awt.Color(255, 255, 255));
         menuPenjemputan.setText("Status Penjemputan");
@@ -116,7 +116,7 @@ public class DetailTrackingView extends javax.swing.JFrame {
             }
         });
 
-        menuPermintaan.setBackground(new java.awt.Color(50, 205, 50));
+        menuPermintaan.setBackground(new java.awt.Color(154, 203, 208));
         menuPermintaan.setFont(new java.awt.Font("Poppins", 0, 14)); // NOI18N
         menuPermintaan.setForeground(new java.awt.Color(255, 255, 255));
         menuPermintaan.setText("Permintaan");
@@ -126,7 +126,7 @@ public class DetailTrackingView extends javax.swing.JFrame {
             }
         });
 
-        menuRiwayat.setBackground(new java.awt.Color(50, 205, 50));
+        menuRiwayat.setBackground(new java.awt.Color(154, 203, 208));
         menuRiwayat.setFont(new java.awt.Font("Poppins", 0, 14)); // NOI18N
         menuRiwayat.setForeground(new java.awt.Color(255, 255, 255));
         menuRiwayat.setText("Riwayat Penjemputan");
@@ -136,7 +136,7 @@ public class DetailTrackingView extends javax.swing.JFrame {
             }
         });
 
-        menuTracking.setBackground(new java.awt.Color(50, 205, 50));
+        menuTracking.setBackground(new java.awt.Color(154, 203, 208));
         menuTracking.setFont(new java.awt.Font("Poppins", 0, 14)); // NOI18N
         menuTracking.setForeground(new java.awt.Color(255, 255, 255));
         menuTracking.setText("Status Tracking");
@@ -187,7 +187,7 @@ public class DetailTrackingView extends javax.swing.JFrame {
                 .addComponent(menuTracking, javax.swing.GroupLayout.PREFERRED_SIZE, 35, javax.swing.GroupLayout.PREFERRED_SIZE)
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                 .addComponent(menuBeratPoint, javax.swing.GroupLayout.PREFERRED_SIZE, 35, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addContainerGap(119, Short.MAX_VALUE))
+                .addContainerGap(109, Short.MAX_VALUE))
             .addGroup(jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                 .addGroup(jPanel1Layout.createSequentialGroup()
                     .addGap(96, 96, 96)
@@ -268,7 +268,7 @@ public class DetailTrackingView extends javax.swing.JFrame {
         lokasiTerakhirLabel.setFont(new java.awt.Font("Poppins", 1, 14)); // NOI18N
         lokasiTerakhirLabel.setText("Lokasi Terakhir");
 
-        simpanBtn.setBackground(new java.awt.Color(102, 153, 0));
+        simpanBtn.setBackground(new java.awt.Color(72, 166, 167));
         simpanBtn.setFont(new java.awt.Font("Poppins", 1, 12)); // NOI18N
         simpanBtn.setForeground(new java.awt.Color(255, 255, 255));
         simpanBtn.setText("Simpan");
@@ -309,7 +309,7 @@ public class DetailTrackingView extends javax.swing.JFrame {
         );
         layout.setVerticalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addComponent(jPanel1, javax.swing.GroupLayout.DEFAULT_SIZE, 498, Short.MAX_VALUE)
+            .addComponent(jPanel1, javax.swing.GroupLayout.DEFAULT_SIZE, 488, Short.MAX_VALUE)
             .addGroup(layout.createSequentialGroup()
                 .addGap(22, 22, 22)
                 .addComponent(jLabel2)
@@ -327,13 +327,13 @@ public class DetailTrackingView extends javax.swing.JFrame {
                     .addComponent(namaKurir, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))
                 .addGap(18, 18, 18)
                 .addComponent(lokasiTerakhirLabel)
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 23, Short.MAX_VALUE)
                 .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING, false)
                     .addComponent(simpanBtn, javax.swing.GroupLayout.DEFAULT_SIZE, 28, Short.MAX_VALUE)
                     .addComponent(jScrollPane2))
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
                 .addComponent(jScrollPane1, javax.swing.GroupLayout.PREFERRED_SIZE, 250, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
+                .addContainerGap(14, Short.MAX_VALUE))
         );
 
         pack();
