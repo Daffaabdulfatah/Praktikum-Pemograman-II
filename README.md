@@ -1,4 +1,4 @@
-# PP2_TUBES_ModulAdmin_PenjemputanSampah_A
+# PP2_TUBES_ModulAdmin_PenjemputanSampah
 
 ## Deskripsi
 Tugas Besar Praktikum Pemrograman II sebuah aplikasi modul admin untuk pengelolaan sistem penjemputan sampah. Aplikasi ini dirancang untuk mempermudah pengelolaan data dan operasional penjemputan sampah.
