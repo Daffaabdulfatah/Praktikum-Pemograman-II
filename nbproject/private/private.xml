@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Files/Netbeans%20Project/PP2_Kelompok3_2024/src/view/KurirView.java</file>
+            <file>file:/D:/Files/Netbeans%20Project/PP2_Kelompok3_2024/src/view/EditKurirView.java</file>
+            <file>file:/D:/Files/Netbeans%20Project/PP2_Kelompok3_2024/src/controller/LatestStatusController.java</file>
+            <file>file:/D:/Files/Netbeans%20Project/PP2_Kelompok3_2024/src/controller/TrackingController.java</file>
+            <file>file:/D:/Files/Netbeans%20Project/PP2_Kelompok3_2024/src/view/DetailTrackingView.java</file>
+            <file>file:/D:/Files/Netbeans%20Project/PP2_Kelompok3_2024/src/controller/TotalBeratPointController.java</file>
+            <file>file:/D:/Files/Netbeans%20Project/PP2_Kelompok3_2024/src/model/Penjemputan.java</file>
+            <file>file:/D:/Files/Netbeans%20Project/PP2_Kelompok3_2024/src/view/MainView.java</file>
+            <file>file:/D:/Files/Netbeans%20Project/PP2_Kelompok3_2024/src/Main.java</file>
+            <file>file:/D:/Files/Netbeans%20Project/PP2_Kelompok3_2024/src/model/PermintaanMapper.java</file>
+            <file>file:/D:/Files/Netbeans%20Project/PP2_Kelompok3_2024/src/view/PermintaanView.java</file>
+            <file>file:/D:/Files/Netbeans%20Project/PP2_Kelompok3_2024/src/view/HistoryView.java</file>
+            <file>file:/D:/Files/Netbeans%20Project/PP2_Kelompok3_2024/src/model/Tracking.java</file>
+            <file>file:/D:/Files/Netbeans%20Project/PP2_Kelompok3_2024/src/view/LatestStatusView.java</file>
+            <file>file:/D:/Files/Netbeans%20Project/PP2_Kelompok3_2024/src/view/TambahPenjemputanView.java</file>
+            <file>file:/D:/Files/Netbeans%20Project/PP2_Kelompok3_2024/src/model/TrackingMapper.java</file>
+            <file>file:/D:/Files/Netbeans%20Project/PP2_Kelompok3_2024/src/controller/EditKurirController.java</file>
+            <file>file:/D:/Files/Netbeans%20Project/PP2_Kelompok3_2024/src/model/KurirMapper.java</file>
+            <file>file:/D:/Files/Netbeans%20Project/PP2_Kelompok3_2024/src/view/EditPermintaanView.java</file>
+            <file>file:/D:/Files/Netbeans%20Project/PP2_Kelompok3_2024/src/model/Kurir.java</file>
+            <file>file:/D:/Files/Netbeans%20Project/PP2_Kelompok3_2024/src/view/TrackingView.java</file>
+            <file>file:/D:/Files/Netbeans%20Project/PP2_Kelompok3_2024/src/controller/TambahKurirController.java</file>
+            <file>file:/D:/Files/Netbeans%20Project/PP2_Kelompok3_2024/src/model/PenjemputanMapper.java</file>
+            <file>file:/D:/Files/Netbeans%20Project/PP2_Kelompok3_2024/src/controller/EditPermintaanController.java</file>
+            <file>file:/D:/Files/Netbeans%20Project/PP2_Kelompok3_2024/src/view/TambahPermintaanView.java</file>
+            <file>file:/D:/Files/Netbeans%20Project/PP2_Kelompok3_2024/src/controller/PermintaanController.java</file>
+            <file>file:/D:/Files/Netbeans%20Project/PP2_Kelompok3_2024/src/controller/KurirController.java</file>
+            <file>file:/D:/Files/Netbeans%20Project/PP2_Kelompok3_2024/src/view/RiwayatView.java</file>
+            <file>file:/D:/Files/Netbeans%20Project/PP2_Kelompok3_2024/src/controller/SidebarController.java</file>
+            <file>file:/D:/Files/Netbeans%20Project/PP2_Kelompok3_2024/src/controller/TambahPermintaanController.java</file>
+            <file>file:/D:/Files/Netbeans%20Project/PP2_Kelompok3_2024/src/model/Permintaan.java</file>
+            <file>file:/D:/Files/Netbeans%20Project/PP2_Kelompok3_2024/src/view/TambahKurirView.java</file>
+            <file>file:/D:/Files/Netbeans%20Project/PP2_Kelompok3_2024/src/controller/RiwayatController.java</file>
+            <file>file:/D:/Files/Netbeans%20Project/PP2_Kelompok3_2024/src/controller/DetailTrackingController.java</file>
+            <file>file:/D:/Files/Netbeans%20Project/PP2_Kelompok3_2024/src/view/TotalBeratPointView.java</file>
+            <file>file:/D:/Files/Netbeans%20Project/PP2_Kelompok3_2024/src/controller/TambahPenjemputanController.java</file>
+            <file>file:/D:/Files/Netbeans%20Project/PP2_Kelompok3_2024/src/view/EditPenjemputanView.java</file>
+        </group>
+    </open-files>
+</project-private>
